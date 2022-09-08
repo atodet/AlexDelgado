@@ -5,8 +5,13 @@
   <a href = "mailto:alext.delgadot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
+
+
 <div>
-  <br><p>⚒️ Actualmente estoy trabajando en prediccion de errores de una base de datos, simulaciones e incetidumbre</p>
+  <br><p>⚒ Soy Geólogo(CPGeo), que trabaja en Análisis de Datos, Geoestadística y Aprendizaje Automático - Fortuna Silver Mines, LATAM</p>
+
+<div>
+  <br><p>⚒️ Actualmente estoy trabajando en prediccion de errores de una base de datos, simulaciones e incetidumbre de leyes</p>
   
   <p>📔 Me encuentro estudiando aplicaciones de Machine Learning para geología y geoestadística  </p>
 </div>
